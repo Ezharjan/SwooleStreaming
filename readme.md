@@ -24,5 +24,5 @@ Video Streaming System using `swoole` php extension as its server while socket.j
 
 ---
 
-<p aligh="right">by Alexander Ezharjan</p>
-<p aligh="right">on 8th August,2020</p>
+<p align="right">by Alexander Ezharjan</p>
+<p align="right">on 8th August,2020</p>
